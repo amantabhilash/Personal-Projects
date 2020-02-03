@@ -1,4 +1,4 @@
-# Personal-Projects
+Sentiment Analyser for text emotion classification
 Projects from my personal interest
 
 
