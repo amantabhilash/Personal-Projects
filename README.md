@@ -1,6 +1,6 @@
-Sentiment Analyser for text emotion classification
-Projects from my personal interest
+#PROJECTS FROM MY PERSONAL INTEREST
 
+Sentiment Analyser for text emotion classification
 
 Sentiment Analyser for text emotion classification :
 The Sentiment Analyser was designed to classify the text according to the emotion
